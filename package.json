@@ -1,5 +1,5 @@
 {
-  "name": "js-yaml",
+  "name": "js-yaml-ramzes",
   "version": "3.8.4",
   "description": "YAML 1.2 parser and serializer",
   "keywords": [
@@ -16,7 +16,7 @@
     "Martin Grenfell <martin.grenfell@gmail.com> (http://got-ravings.blogspot.com)"
   ],
   "license": "MIT",
-  "repository": "nodeca/js-yaml",
+  "repository": "ramzes13/js-yaml",
   "files": [
     "index.js",
     "lib/",
